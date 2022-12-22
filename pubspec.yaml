@@ -1,6 +1,6 @@
 name: simple_dart_list_field
 description: ListField Component
-version: 0.0.1
+version: 0.0.3
 repository: https://github.com/simple-dart/list_field
 platforms:
   web:
@@ -12,7 +12,7 @@ environment:
 dependencies:
   simple_dart_image_button: ^0.0.1
   simple_dart_label: ^0.0.1
-  simple_dart_text_field: ^0.0.1
+  simple_dart_text_field: ^0.0.3
   simple_dart_ui_core: ^0.0.2
 
 dev_dependencies:
